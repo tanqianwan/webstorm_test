@@ -25,7 +25,7 @@ $(document).ready(function() {
         switch (id) {
             case '1':
                 title = '景点1';
-                content = '这是一个美丽的景点，适合度假和放松。这里有清澈的湖水和茂密的森林，是远离城市喧嚣的理想去处。';
+                content = 'This is a beautiful scenic spot, suitable for vacation and relaxation. Here, there is clear lake water and lush forest, making it an ideal place to escape from the hustle and bustle of the city.';
                 break;
             case '2':
                 title = '景点2';
