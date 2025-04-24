@@ -29,7 +29,7 @@ $(document).ready(function() {
                 break;
             case '2':
                 title = '景点2';
-                content = '这是一个历史名胜，适合了解当地文化。这里有古老的建筑和丰富的历史遗迹，是历史爱好者的天堂。';
+                content = 'This is a historical landmark, suitable for understanding the local culture. Here, there are ancient buildings and abundant historical relics, making it a paradise for history enthusiasts.';
                 break;
             case '3':
                 title = '景点3';
