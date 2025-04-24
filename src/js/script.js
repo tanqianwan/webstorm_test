@@ -33,7 +33,7 @@ $(document).ready(function() {
                 break;
             case '3':
                 title = '景点3';
-                content = '这是一个自然风光，适合徒步和摄影。这里有壮观的山脉和瀑布，是户外活动的绝佳选择。';
+                content = 'This is a natural landscape, suitable for hiking and photography. Here are magnificent mountains and waterfalls, making it an excellent choice for outdoor activities.';
                 break;
         }
 
